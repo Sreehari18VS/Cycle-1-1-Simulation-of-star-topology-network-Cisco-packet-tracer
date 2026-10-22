@@ -73,7 +73,7 @@ C:\> ipconfig /all
 
 ## OUTPUT
 ---
-<img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+<img width="863" height="857" alt="WhatsApp Image 2026-10-22 at 11 01 44 AM" src="https://github.com/user-attachments/assets/0d0b53ca-c91a-4d6d-9cee-a402d515a69c" />
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
